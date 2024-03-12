@@ -1,0 +1,1 @@
+<?php include('../setup.php'); echo header("Location: $discord"); ?>
